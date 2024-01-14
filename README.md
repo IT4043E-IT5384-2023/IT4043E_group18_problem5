@@ -6,7 +6,8 @@
 First, install necessary libraries:
 - pip install -r requirements
 - Download Postman from https://www.postman.com/downloads/
-- Get your chat_id from telegram 
+- Get your chat_id from telegram
+- In Telegram search @WarningTransactionBot , enter "/start"
 - Replace with the chat ID of the user you want to message at line 35 of api.py 
 - Run interminal : python api.py
 - Link api : http://127.0.0.1:5000/warning
