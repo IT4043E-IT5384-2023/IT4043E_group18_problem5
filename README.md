@@ -14,9 +14,9 @@ First, install necessary libraries:
 - ![api_image](https://github.com/IT4043E-IT5384-2023/IT4043E_group18_problem5/assets/90127093/9108a6c1-bb78-43f7-83d4-270e8386a854)
 
 - Key :
-- transaction : send or transaction (text)
+- transaction : send or recive (text)
 - space : arbitrum or fantom or polygon or ethereum (text)
-- with_user : user addresses in the outlier files of the respective space in folder Telegram_bot
+- with_user : user addresses in the outlier files of the respective space in folder Telegram_bot (text)
   
 
 
