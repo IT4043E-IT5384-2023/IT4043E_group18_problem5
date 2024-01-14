@@ -6,3 +6,11 @@
 First, install necessary libraries:
 pip install -r requirements
 
+Get your chat_id from telegram 
+Replace with the chat ID of the user you want to message at line 35 of api.py 
+Run interminal : python api.py 
+
+
+
+
+
