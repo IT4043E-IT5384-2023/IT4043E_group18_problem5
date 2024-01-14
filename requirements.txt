@@ -1,0 +1,4 @@
+flask[async]
+asyncio
+requests
+python-telegram-bot
